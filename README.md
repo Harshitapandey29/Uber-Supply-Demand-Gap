@@ -64,7 +64,7 @@ Uber-Supply-Demand-Gap/
 ![Line Chart](charts/line_chart.png)
 
 ### 📉 Bar Chart – Gap by Time Slots and Pickup Points
-![Bar Chart](charts/bar_charttime.png)
+![Bar Chart](charts/bar_chart.png)
 
 ### 📚 Stacked Column Chart – Cancellations and No Cars Available by Hour
 ![Stacked Column](charts/stacked_column.png)
