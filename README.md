@@ -61,13 +61,13 @@ Uber-Supply-Demand-Gap/
 ![Hourly Heatmap](charts/hourly_heatmap.png)
 
 ### 📊 Line Chart – Demand Variation Across Each Hour
-![Line Chart](charts/hourly_line_chart.png)
+![Line Chart](charts/line chart.png)
 
 ### 📉 Bar Chart – Gap by Time Slots and Pickup Points
-![Bar Chart](charts/bar_gap_by_time.png)
+![Bar Chart](charts/bar charttime.png)
 
 ### 📚 Stacked Column Chart – Cancellations and No Cars Available by Hour
-![Stacked Column](charts/stacked_column_failures.png)
+![Stacked Column](charts/stacked column.png)
 
 
 ---
